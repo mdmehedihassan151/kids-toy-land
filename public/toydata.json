@@ -1,0 +1,111 @@
+[
+  {
+    "toyId": 1,
+    "toyName": "Lego Classic Bricks",
+    "sellerName": "Toys R Us Local",
+    "sellerEmail": "contact@toysruslocal.com",
+    "price": 49.99,
+    "rating": 4.7,
+    "availableQuantity": 75,
+    "description": "A timeless set of colorful Lego bricks that encourages creativity and problem-solving. Kids can build anything they imagine, from houses to vehicles.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2016/03/31/20/11/lego-1297582_1280.png",
+    "subCategory": "Building Blocks"
+  },
+  {
+    "toyId": 2,
+    "toyName": "Lego City Police Station",
+    "sellerName": "BrickWorld Store",
+    "sellerEmail": "support@brickworld.com",
+    "price": 89.99,
+    "rating": 4.8,
+    "availableQuantity": 50,
+    "description": "Build a detailed police station complete with vehicles and figures. Perfect for kids who love action and city adventures.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2016/09/04/21/30/lego-1649486_1280.jpg",
+    "subCategory": "City Sets"
+  },
+  {
+    "toyId": 3,
+    "toyName": "Lego Technic Racing Car",
+    "sellerName": "Lego Official Store",
+    "sellerEmail": "info@legoofficial.com",
+    "price": 59.99,
+    "rating": 4.6,
+    "availableQuantity": 120,
+    "description": "A realistic racing car model with working steering and suspension. Great for advanced builders and car enthusiasts.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2020/04/13/13/08/lego-5037452_1280.jpg",
+    "subCategory": "Technic"
+  },
+  {
+    "toyId": 4,
+    "toyName": "Lego Creator 3-in-1 Pirate Ship",
+    "sellerName": "ToyVerse BD",
+    "sellerEmail": "sales@toyversebd.com",
+    "price": 79.99,
+    "rating": 4.8,
+    "availableQuantity": 65,
+    "description": "Sail the seven seas with this 3-in-1 pirate ship set. Can be rebuilt into a pirate tavern or a mysterious island for endless adventures.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2020/04/02/12/51/lego-4992313_1280.jpg",
+    "subCategory": "Creator"
+  },
+  {
+    "toyId": 5,
+    "toyName": "Lego Star Wars X-Wing Fighter",
+    "sellerName": "Galaxy Toys",
+    "sellerEmail": "contact@galaxytoys.com",
+    "price": 109.99,
+    "rating": 4.9,
+    "availableQuantity": 40,
+    "description": "Join the Rebel Alliance and build the iconic X-Wing Fighter with amazing details and a pilot minifigure.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2021/04/15/10/19/lego-6178528_1280.jpg",
+    "subCategory": "Star Wars"
+  },
+  {
+    "toyId": 6,
+    "toyName": "Lego Minecraft The Creeper Mine",
+    "sellerName": "PixelPlay BD",
+    "sellerEmail": "info@pixelplaybd.com",
+    "price": 84.99,
+    "rating": 4.7,
+    "availableQuantity": 55,
+    "description": "Enter the world of Minecraft and build a detailed Creeper Mine with TNT blasting functions, tracks, and mine carts.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2020/05/17/15/26/lego-5183100_1280.jpg",
+    "subCategory": "Minecraft"
+  },
+  {
+    "toyId": 7,
+    "toyName": "Lego Harry Potter Hogwarts Express",
+    "sellerName": "Fantasy Toy House",
+    "sellerEmail": "service@fantasytoys.com",
+    "price": 99.99,
+    "rating": 4.8,
+    "availableQuantity": 45,
+    "description": "All aboard the Hogwarts Express! A magical build featuring the iconic train, platform 9¾, and favorite characters.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2019/12/06/21/38/lego-4679320_1280.jpg",
+    "subCategory": "Harry Potter"
+  },
+  {
+    "toyId": 8,
+    "toyName": "Lego Marvel Spider-Man Tower Battle",
+    "sellerName": "SuperHero Bricks",
+    "sellerEmail": "contact@superherobricks.com",
+    "price": 84.99,
+    "rating": 4.7,
+    "availableQuantity": 80,
+    "description": "Join Spider-Man in an epic battle against villains in this high-rise tower set packed with action features.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2022/07/20/10/59/lego-7336109_1280.jpg",
+    "subCategory": "Marvel"
+  },
+  {
+    "toyId": 9,
+    "toyName": "Lego Architecture London Skyline",
+    "sellerName": "Creative Toys BD",
+    "sellerEmail": "sales@creativetoysbd.com",
+    "price": 79.99,
+    "rating": 4.9,
+    "availableQuantity": 55,
+    "description": "Recreate the architectural beauty of London with this detailed skyline model — includes Big Ben, Tower Bridge, and more.",
+    "pictureURL": "https://cdn.pixabay.com/photo/2016/08/11/16/24/lego-1589160_1280.jpg",
+    "subCategory": "Architecture"
+  }
+  
+]
